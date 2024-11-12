@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+.img {
+    background-image: url(asans.jpeg);
+    min-height: 100%;
+
+
+
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 550;
+}
+
+/* .textbg{
+    background-color: rgb(100, 48, 48);
+} */
+.seclt {
+    padding: 50px 80px;
+    text-align: center;
+
+}
+
+.seclt-light {
+    background-color: beige;
+    color: black;
+
+}
+
+
+.img1 {
+    background-image: url(img1.jpg);
+    min-height: 100%;
+
+
+}
+
+
+.img2 {
+    background-image: url(img2.jpg);
+    min-height: 100%;
+
+
+}
+
+
+.img3 {
+    background-image: url(img3.jpg);
+    min-height: 100%;
+
+
+}
+
+.img4 {
+    background-image: url(img4.webp);
+    min-height: 100%;
+
+
+}
+
+.img5 {
+    background-image: url(img5.jpg);
+    min-height: 100%;
+
+
+}
+
+.img6 {
+    background-image: url(img6.jpg);
+    min-height: 100%;
+
+
+}
+
+.img7 {
+    background-image: url(img7.jpg);
+    min-height: 100%;
+
+
+}
+
+.img8 {
+    background-image: url(img8.jpg);
+    min-height: 100%;
+
+
+}
+
+.img9 {
+    background-image: url(img9.jpg);
+    min-height: 100%;
+
+}
+
+.img10 {
+    background-image: url(img10.jpg);
+    min-height: 100%;
+
+
+}
+
+.img11 {
+    background-image: url(img11.jpg);
+    min-height: 100%;
+
+
+}
+
+.img12 {
+    background-image: url(img12.jpg);
+    min-height: 100%;
+
+
+}
+
+.img,
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6,
+.img7,
+.img8,
+.img9,
+.img10,
+.img11,
+.img12 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
